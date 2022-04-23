@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes file-1.txt
+=======
+file-1 changes
+>>>>>>> 378a3c2a1ecb5611e19bddf44e22e73198642b08
