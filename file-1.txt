@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+file-1 changes
+=======
 Changes file-1.txt
+>>>>>>> branch-1
